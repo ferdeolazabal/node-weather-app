@@ -1,7 +1,12 @@
 # Aplicación del clima en Node.js
 
-Aplicación de consola interactiva, con opciones que se pueden seleccionar con las teclas direccionales o números, distintos lugares para conocer el clima actual
+Aplicación de consola interactiva, con opciones que se pueden seleccionar con las teclas direccionales o números, distintos lugares para conocer el clima actual.
 
+Se utilizaron las siguientes APIs
+
+[https://www.mapbox.com/](https://www.mapbox.com/)
+
+[https://openweathermap.org/](https://openweathermap.org/)
 
 ![List prompt](https://github.com/ferdeolazabal/node-weather-app/blob/screen/screenshots/1.png)
 
@@ -26,4 +31,4 @@ Instalar dependencias
 Iniciar
 ```shell
 > npm start
-```# node-weather-app
+```
